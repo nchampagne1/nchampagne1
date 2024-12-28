@@ -1,5 +1,7 @@
-## Hi there, I am Nahallah 👋
+## Hi there, I am Nahallah!👋🏾👩🏾‍💻
+🔭Computer Science Sudent @ NJIT
 
+![ThumbsUpKedetGIF](https://github.com/user-attachments/assets/b8e6f608-6a7c-4775-94f1-5180ba5a844c)
 
 
 <!--
