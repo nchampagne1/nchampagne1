@@ -1,17 +1,7 @@
 ## Hi there, I am Nahallah!👋🏾👩🏾‍💻
 🔭Computer Science Sudent @ NJIT
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="max-width: 60%;">
-    <h3>Intro</h3>
-    <p>
-      Passionate about creating and learning though projects, I focus on using learning through projects and creating impactful grounded projects. I am especially curious about how machine learning can shape real-world tools, and I love building projects that blend creativity with code.
-    </p>
-  </div>
-  <img src="[https://your-gif-url.gif](https://github.com/user-attachments/assets/b8e6f608-6a7c-4775-94f1-5180ba5a844c)" alt="Your gif" width="100" style="margin-left: 20px;" />
-</div>
-
-Passionate about creating and learning though projects, I focus on using learning through projects and creating impactful grounded projects. I am especially curious about how machine learning can shape real-world tools, and I love building projects that blend creativity with code. ![ThumbsUpKedetGIF](https://github.com/user-attachments/assets/b8e6f608-6a7c-4775-94f1-5180ba5a844c)
+Passionate about creating and learning though projects, I focus on using learning through projects and creating impactful grounded projects. I am especially curious about how machine learning can shape real-world tools, and I love building projects that blend creativity with code.
 
 💡 I work on apps that solve everyday problems (and a few that just spark joy)
 
