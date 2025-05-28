@@ -1,9 +1,18 @@
 ## Hi there, I am Nahallah!👋🏾👩🏾‍💻
 🔭Computer Science Sudent @ NJIT
 
+Passionate about creating and learning though projects, I focus on using learning through projects and creating impactful grounded projects. I am especially curious about how machine learning can shape real-world tools, and I love building projects that blend creativity with code. ![ThumbsUpKedetGIF](https://github.com/user-attachments/assets/b8e6f608-6a7c-4775-94f1-5180ba5a844c)
+
+💡 I work on apps that solve everyday problems (and a few that just spark joy)
+
+🧠 Currently diving deep into ML, Python, and backend architecture
+
+🌱 Always learning new technologys, including TensorFlow/Keras
+
+Let’s connect, collab, or just swap cool project ideas.
+
 ![ThumbsUpKedetGIF](https://github.com/user-attachments/assets/b8e6f608-6a7c-4775-94f1-5180ba5a844c)
 
-![image](https://camo.githubusercontent.com/a080cfbbb2aea39c9e9504005747f9a103556be2dd86035103000b099c4fb7d6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966)
 
 
 
