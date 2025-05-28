@@ -3,11 +3,11 @@
 
 Passionate about creating and learning though projects, I focus on using learning through projects and creating impactful grounded projects. I am especially curious about how machine learning can shape real-world tools, and I love building projects that blend creativity with code.
 
-💡 I work on apps that solve everyday problems (and a few that just spark joy)
+💡 I am currently working on a fullstack web application, and learning new frameworks along the way. 
 
-🧠 Currently diving deep into ML, Python, and backend architecture
+🧠 Intrested in exploring more frameworks and tools related to ML, Python, and backend architecture.
 
-🌱 Always learning new technologys, including TensorFlow/Keras
+🌱 Always learning new technologys, including TensorFlow/Keras.
 
 Let’s connect, collab, or just swap cool project ideas.
 
